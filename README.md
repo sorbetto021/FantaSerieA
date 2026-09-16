@@ -1,2 +1,0 @@
-# FantaSerieA
-Notifiche fantacalcio 
